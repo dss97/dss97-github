@@ -6,6 +6,7 @@
     background-attachment: fixed;*/
 
 }
+
 div{
 
 }
@@ -55,9 +56,13 @@ div{
     width: 15%;
     float: left;
 }
-
 .left a{
     text-decoration: none;
+    outline: none;
+}
+.left a img{
+    width: 50px;
+    height: 50px;
 }
 .left a:hover{
     color: greenyellow;
